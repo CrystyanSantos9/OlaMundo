@@ -1,2 +1,2 @@
 # OlaMundo
- Repositorio criado durante curso do Guanabara-Curso Em Video
+ Repositorio criado durante o curso do Guanabara-Curso Em Video
